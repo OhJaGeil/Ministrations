@@ -1,5 +1,7 @@
 # Ministrations: *MINI*mal, *ST*ee*RA*ble, instruc*TIONS*
 
+Disclaimer: Work in Progress and Experimental. I'm new to local LLM so some of this information may be false or misleading!
+
 Alt title: You may be prompting wrong, hear me out.
 
 ## Preamble
